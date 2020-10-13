@@ -10,7 +10,7 @@ I'm the author of [six-finger](https://github.com/bin392328206/six-finger). I wi
 (是非审之于己，毁誉听之于人，得失安之于数，成败归之于零)**
 
 
-## Ask me about 📫 
+## contact me 📫 
 - 微信公众号@六脉神剑的程序人生
 - 我知道很多人不玩qq了,但是怀旧一下,欢迎加入六脉神剑Java菜鸟学习群，群聊号码：549684836
 
