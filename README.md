@@ -17,7 +17,7 @@ I'm the author of [six-finger](https://github.com/bin392328206/six-finger). I wi
 
 ## Project
 - 😄[six-finger](https://github.com/bin392328206/six-finger) ：从Java基础、JavaWeb基础到常用的框架再到面试题、微服务、分布式、大数据，几乎涵盖了Java必备的知识点,是小六六自己平时学习的总结
-- 🤔[six-finger-web](https://github.com/bin392328206/six-finger-web) ：一个Web后端框架的轮子从处理Http(基于Netty的请求级Web服务器) 到mvc(接口封装转发)，再到ioc(依赖注入)，aop(切面)，再到 rpc(远程过程调用)最后到orm(数据库操作)全部自己撸一个（简易）的轮子。
+- 🤔[six-finger-web](https://github.com/bin392328206/six-finger-web) ：一个Web后端框架的轮子从处理Http请求(基于Netty的请求级Web服务器) 到mvc(接口封装转发)，再到ioc(依赖注入)，aop(切面)，再到 rpc(远程过程调用)最后到orm(数据库操作)全部自己撸一个（简易）的轮子。
 
 
 
