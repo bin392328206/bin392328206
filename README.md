@@ -11,8 +11,8 @@ I'm the author of [six-finger](https://github.com/bin392328206/six-finger). I wi
 
 
 ## contact me 📫 
-- 微信公众号@六脉神剑的程序人生
-- 我知道很多人不玩qq了,但是怀旧一下,欢迎加入六脉神剑Java菜鸟学习群，群聊号码：549684836
+- 微信 15773974799
+- QQ 392328206
 
 
 ## Project
