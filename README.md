@@ -11,7 +11,7 @@ I'm the author of [six-finger](https://github.com/bin392328206/six-finger). I wi
 
 
 ## contact me 📫 
-- 微信 15773974799
+- 微信 xiaoliuliubin
 - QQ 392328206
 
 
